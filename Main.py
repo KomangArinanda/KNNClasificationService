@@ -5,6 +5,7 @@ import numpy as np
 
 app = Flask(__name__)
 Swagger(app)
+CORS(app)
 
 @app.route('/input/task', methods=['POST'])
 def predict():
@@ -60,4 +61,6 @@ def predict():
 
     return jsonify({'message': format(clf[1].target_names[resultPredict])})
 
-app.run(debug=True)
+
+if __name__ == '__main__':
+    app.run()
