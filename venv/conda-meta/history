@@ -1,0 +1,89 @@
+==> 2018-11-21 06:40:19 <==
+# cmd: C:\Users\arinanda\Anaconda3\Scripts\conda create -p C:\Users\arinanda\PycharmProjects\WSVenv\venv -y python=3.6
+# conda version: 4.5.11
++defaults::certifi-2018.10.15-py36_0
++defaults::pip-18.1-py36_0
++defaults::python-3.6.7-h33f27b4_1
++defaults::setuptools-40.6.2-py36_0
++defaults::vc-14.1-h0510ff6_4
++defaults::vs2015_runtime-14.15.26706-h3a45250_0
++defaults::wheel-0.32.3-py36_0
++defaults::wincertstore-0.2-py36h7fe50ca_0
+# update specs: ['python=3.6']
+==> 2018-11-21 06:40:27 <==
+# cmd: C:\Users\arinanda\Anaconda3\Scripts\conda install -p C:/Users/arinanda/PycharmProjects/WSVenv/venv flask -y
+# conda version: 4.5.11
++defaults::click-7.0-py36_0
++defaults::flask-1.0.2-py36_1
++defaults::itsdangerous-1.1.0-py36_0
++defaults::jinja2-2.10-py36_0
++defaults::markupsafe-1.1.0-py36he774522_0
++defaults::werkzeug-0.14.1-py36_0
+# update specs: ['flask']
+==> 2018-11-21 06:43:40 <==
+# cmd: C:\Users\arinanda\Anaconda3\Scripts\conda install -p C:/Users/arinanda/PycharmProjects/WSVenv/venv click==6.7 -y
+# conda version: 4.5.11
+-defaults::click-7.0-py36_0
++defaults::click-6.7-py36hec8c647_0
+# update specs: ['click==6.7']
+==> 2018-11-21 06:43:46 <==
+# cmd: C:\Users\arinanda\Anaconda3\Scripts\conda install -p C:/Users/arinanda/PycharmProjects/WSVenv/venv Flask==0.12.2 -y
+# conda version: 4.5.11
+-defaults::flask-1.0.2-py36_1
++defaults::flask-0.12.2-py36h98b5e8f_0
+# update specs: ['flask==0.12.2']
+==> 2018-11-21 06:43:50 <==
+# cmd: C:\Users\arinanda\Anaconda3\Scripts\conda install -p C:/Users/arinanda/PycharmProjects/WSVenv/venv Flask-Cors==3.0.3 -y
+# conda version: 4.5.11
++defaults::flask-cors-3.0.3-py36h8a3855d_0
++defaults::six-1.11.0-py36_1
+# update specs: ['flask-cors==3.0.3']
+==> 2018-11-21 06:43:56 <==
+# cmd: C:\Users\arinanda\Anaconda3\Scripts\conda install -p C:/Users/arinanda/PycharmProjects/WSVenv/venv itsdangerous==0.24 -y
+# conda version: 4.5.11
+-defaults::itsdangerous-1.1.0-py36_0
++defaults::itsdangerous-0.24-py36_1
+# update specs: ['itsdangerous==0.24']
+==> 2018-11-21 06:44:01 <==
+# cmd: C:\Users\arinanda\Anaconda3\Scripts\conda install -p C:/Users/arinanda/PycharmProjects/WSVenv/venv jsonschema==2.6.0 -y
+# conda version: 4.5.11
++defaults::jsonschema-2.6.0-py36h7636477_0
+# update specs: ['jsonschema==2.6.0']
+==> 2018-11-21 06:44:05 <==
+# cmd: C:\Users\arinanda\Anaconda3\Scripts\conda install -p C:/Users/arinanda/PycharmProjects/WSVenv/venv MarkupSafe==1.0 -y
+# conda version: 4.5.11
+-defaults::markupsafe-1.1.0-py36he774522_0
++defaults::markupsafe-1.0-py36hfa6e2cd_1
+# update specs: ['markupsafe==1.0']
+==> 2018-11-21 06:44:11 <==
+# cmd: C:\Users\arinanda\Anaconda3\Scripts\conda install -p C:/Users/arinanda/PycharmProjects/WSVenv/venv mistune==0.8.3 -y
+# conda version: 4.5.11
++defaults::mistune-0.8.3-py36hfa6e2cd_1
+# update specs: ['mistune==0.8.3']
+==> 2018-11-21 06:48:01 <==
+# cmd: C:\Users\arinanda\Anaconda3\Scripts\conda install -p C:/Users/arinanda/PycharmProjects/WSVenv/venv numpy==1.14.0 -y
+# conda version: 4.5.11
++defaults::blas-1.0-mkl
++defaults::icc_rt-2017.0.4-h97af966_0
++defaults::intel-openmp-2019.1-144
++defaults::mkl-2018.0.3-1
++defaults::numpy-1.14.0-py36hb69e940_2
+# update specs: ['numpy==1.14.0']
+==> 2018-11-21 06:48:07 <==
+# cmd: C:\Users\arinanda\Anaconda3\Scripts\conda install -p C:/Users/arinanda/PycharmProjects/WSVenv/venv PyYAML==3.12 -y
+# conda version: 4.5.11
++defaults::pyyaml-3.12-py36hfa6e2cd_1
++defaults::yaml-0.1.7-hc54c509_2
+# update specs: ['pyyaml==3.12']
+==> 2018-11-21 06:48:40 <==
+# cmd: C:\Users\arinanda\Anaconda3\Scripts\conda install -p C:/Users/arinanda/PycharmProjects/WSVenv/venv scikit-learn==0.19.1 -y
+# conda version: 4.5.11
++defaults::scikit-learn-0.19.1-py36hae9bb9f_0
++defaults::scipy-1.1.0-py36hc28095f_0
+# update specs: ['scikit-learn==0.19.1']
+==> 2018-11-21 06:49:00 <==
+# cmd: C:\Users\arinanda\Anaconda3\Scripts\conda install -p C:/Users/arinanda/PycharmProjects/WSVenv/venv scipy==1.0.0 -y
+# conda version: 4.5.11
+-defaults::scipy-1.1.0-py36hc28095f_0
++defaults::scipy-1.0.0-py36h1260518_0
+# update specs: ['scipy==1.0.0']
